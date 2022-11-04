@@ -1,0 +1,3 @@
+/home/pink/projects/complier/db_parsing/build/CMakeFiles/lex_test.dir
+/home/pink/projects/complier/db_parsing/build/CMakeFiles/edit_cache.dir
+/home/pink/projects/complier/db_parsing/build/CMakeFiles/rebuild_cache.dir
