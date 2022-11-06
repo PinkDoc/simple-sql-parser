@@ -1,8 +1,6 @@
 cmake_minimum_required(VERSION 3.21)
 project(db_parsing)
-
 set(CMAKE_CXX_STANDARD 17)
-
 include_directories(.)
-
 add_executable(lex_test tests/lex_test.cc)
+add_executable(select_test tests/select_test.cc)
